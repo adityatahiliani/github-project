@@ -1,2 +1,2 @@
 # github-project
-this is my first try to github projescts
+this is my first try to Github projects
